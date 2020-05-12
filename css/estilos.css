@@ -12,12 +12,12 @@ background-size: 100% 100%;
 }
 @media (min-width: 300px) {
 .teste{
-font-size: 5.5em;
+font-size: 8em;
 }
 }
 @media (min-width: 600px) {
 .teste{
-font-size: 7em;
+font-size: 10em;
 }
 }
 
