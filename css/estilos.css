@@ -16,7 +16,7 @@ background-size: 100% 100%;
 	
   }
 .teste{
-font-size: 40%;
+font-size: 50%;
 }
 }
 @media (min-width: 600px) {
@@ -25,7 +25,7 @@ font-size: 40%;
 	
   }
 .teste{
-font-size: 60%;
+font-size: 70%;
 }
 }
 
