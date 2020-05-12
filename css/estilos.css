@@ -13,12 +13,12 @@ background-size: 100% 100%;
 @media (min-width: 300px) {
 body{
 	
-font-size: 18px;
+font-size: 8px;
 }
 }
 @media (min-width: 600px) {
 body{
-font-size: 20px;
+font-size: 11px;
 }
 }
 
@@ -35,7 +35,7 @@ align-items: center;
   position:fixed;
   width: 100vw;
   top:0;
-  font-size: 1.5em;
+  font-size: 1.8em;
 }
 
 a {
@@ -96,7 +96,7 @@ justify-content: center;
   color:white;
   text-shadow: 2px 2px 10px black;
   letter-spacing: 5px;
-  font-size: 5em;
+  font-size: 10em;
 }
 .site-subtitle{
 font-style: italic;
